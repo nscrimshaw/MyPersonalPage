@@ -199,11 +199,11 @@ hr.small {
 }
 
 .portfolio-item {
-    margin-bottom: 0px;
+    margin-bottom: 30px;
 }
 
 .img-portfolio {
-    margin: 0 auto;
+    margin: 0;
 }
 
 .img-portfolio:hover {
