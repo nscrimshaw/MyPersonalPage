@@ -203,7 +203,7 @@ hr.small {
 }
 
 .img-portfolio {
-    margin: 0;
+    margin: 0 auto;
 }
 
 .img-portfolio:hover {
