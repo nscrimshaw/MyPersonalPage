@@ -153,6 +153,7 @@ hr.small {
 /* Header */
 
 .header {
+    font-family: 'Dancing Script', 'Open Source Sans', serif;
     display: table;
     position: relative;
     width: 100%;
